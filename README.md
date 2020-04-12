@@ -3,4 +3,11 @@
 
 获得了利龙创业基金三等奖。<br>
 
-一下是APK所使用的图片：<br>
+以下是APK所使用的图片：<br>
+- ![crocodile_scaled.jpg](crocodile_scaled.jpg)
+- ![elephant_scaled.jpg](elephant_scaled.jpg)
+- ![hippo_scaled.jpg](hippo_scaled.jpg)
+- ![lion_scaled.jpg](lion_scaled.jpg)
+- ![rhinoceros_scaled.jpg](rhinoceros_scaled.jpg)
+- ![tiger_scaled.jpg](tiger_scaled.jpg)
+- ![zebra_scaled.jpg](zebra_scaled.jpg)
